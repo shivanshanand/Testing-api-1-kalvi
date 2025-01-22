@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # **Assignment Elaboration: API Testing and Database Integration**
 
 You are a developer for an educational analytics platform that helps teachers evaluate students' performance. The platform maintains student records, including their names, grades, and marks in multiple subjects, stored in a JSON format.
@@ -140,3 +141,6 @@ If no students meet the threshold criteria, the API returns an empty list with a
 ### **Example Submission**
 If your GitHub username is `johnDoe` and the repository name is `assignment-repo`, the submission link would look like this:  
 **`https://github.com/johnDoe/assignment-repo`**
+=======
+# Testing-api-1-kalvi
+>>>>>>> 85a058798df00056998a5a08caefd3bec52db027
